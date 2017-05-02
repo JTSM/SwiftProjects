@@ -1,2 +1,3 @@
 # SwiftProjects
-My Projects Developed Locally In Swift For Fun
+My Projects Developed Locally in Swift for Fun!
+MacOS, iOS and WatchOS included.
